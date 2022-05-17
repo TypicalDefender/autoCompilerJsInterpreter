@@ -1116,8 +1116,8 @@ code-point-at@^1.0.0:
   resolved "https://registry.yarnpkg.com/code-point-at/-/code-point-at-1.1.0.tgz#0d070b4d043a5bea33a2f1a40e2edb3d9a4ccf77"
 
 codemirror@^5.13.4:
-  version "5.25.0"
-  resolved "https://registry.yarnpkg.com/codemirror/-/codemirror-5.25.0.tgz#78e06939c7bb41f65707b8aa9c5328111948b756"
+  version "5.65.1"
+  resolved "https://registry.yarnpkg.com/codemirror/-/codemirror-5.65.1.tgz#5988a812c974c467f964bcc1a00c944e373de502"
 
 combined-stream@^1.0.5, combined-stream@~1.0.5:
   version "1.0.5"
